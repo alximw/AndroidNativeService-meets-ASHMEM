@@ -1,4 +1,4 @@
-# AndroidNativeService-knows-ASHMEM
+# AndroidNativeService-meets-ASHMEM
 
 This is a very simple project dealing with native binder communication and ashmem (Android'shared memory mechanism)
 
